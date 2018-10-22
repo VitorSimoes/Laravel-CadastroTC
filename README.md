@@ -4,11 +4,11 @@ Objetivo:criar um sistema de cadastro para participantes de um concurso de apps,
 
 Codename: var1
 Contém:
-1.Login
-2.Verificação de email
-3.Esqueceu a senha
-4.Tela de upload de multiarquivos
-5.Tela de cadastro com automatização via Jquery
+**Login
+**Verificação de email
+**Esqueceu a senha
+**Tela de upload de multiarquivos
+**Tela de cadastro com automatização via Jquery
 
 
 Observações:

@@ -12,7 +12,7 @@ Contém:
 
 
 Observações:
-*Na tela de login, é disparado um email de boas vindas para o usuário, ainda não customizado.
-*Na tela de Verificação de email, é disparado um email para o usuário para confirmar o email e poder permitir o uso da aplicação, ainda não costumizado.
-*Na tela de Esqueceu a senha, é disparado um email para o usuário, contendo um link para uma página onde possa realizar a troca de senha, ainda não costumizado
-*Tela de upload com conflitos de CSS.
+-Na tela de login, é disparado um email de boas vindas para o usuário, ainda não customizado.
+-Na tela de Verificação de email, é disparado um email para o usuário para confirmar o email e poder permitir o uso da aplicação, ainda não costumizado.
+-Na tela de Esqueceu a senha, é disparado um email para o usuário, contendo um link para uma página onde possa realizar a troca de senha, ainda não costumizado
+-Tela de upload com conflitos de CSS.
